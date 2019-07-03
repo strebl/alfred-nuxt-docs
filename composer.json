@@ -1,0 +1,16 @@
+{
+    "name": "strebl/alfred-nuxt-docs",
+    "description": "An ultra-fast Nuxt.js docs search workflow for Alfred 3",
+    "version": "0.1.0",
+    "keywords": ["alfred", "alfred-workflow", "nuxt", "algolia"],
+    "homepage": "https://github.com/strebl/alfred-nuxt-docs",
+    "support": {
+        "source": "https://github.com/strebl/alfred-nuxt-docs",
+        "issues": "https://github.com/strebl/alfred-nuxt-docs/issues"
+    },
+    "license": "MIT",
+    "require": {
+        "joetannenbaum/alfred-workflow": "^0.1.0",
+        "algolia/algoliasearch-client-php": "^1.27"
+    }
+}
